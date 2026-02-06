@@ -1,0 +1,54 @@
+name: whatstat
+description: Privacy-first WhatsApp chat analyzer with beautiful visualizations
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  flutter_riverpod: ^2.4.9
+  
+  # Navigation
+  go_router: ^13.0.1
+  
+  # Functional Programming
+  dartz: ^0.10.1
+  
+  # Local Storage
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.2
+  
+  # File Handling
+  permission_handler: ^11.1.0
+  file_picker: ^8.0.0
+  
+  # Charts
+  fl_chart: ^0.66.0
+  
+  # UI & Animations
+  flutter_animate: ^4.3.0
+  shimmer: ^3.0.0
+  google_fonts: ^6.1.0
+  gap: ^3.0.1
+  
+  # Export & Sharing
+  screenshot: ^2.1.0
+  share_plus: ^7.2.1
+  
+  # Utilities
+  intl: ^0.18.1
+  collection: ^1.18.0
+  uuid: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
