@@ -20,68 +20,14 @@
 
 ## Features
 
-<table>
-<tr>
-<td width="50%">
-
-### **Analytics at a Glance**
-- Total messages, words & media counts
-- Per-participant breakdowns
-- Average messages per day
-- Chat duration & activity timeline
-
-</td>
-<td width="50%">
-
-### **Activity Heatmap**
-- 7x24 day-hour activity grid
-- Night owl / early bird detection
-- Peak activity hour identification
-- Visual color-coded intensity
-
-</td>
-</tr>
-<tr>
-<td>
-
-### **Emoji Intelligence**
-- Top emoji rankings
-- Per-participant emoji profiles
-- Emoji usage over time
-- Most expressive moments
-
-</td>
-<td>
-
-### **Response Time Analysis**
-- Average reply speed per person
-- Who responds fastest to whom
-- Response time distributions
-- Conversation flow insights
-
-</td>
-</tr>
-<tr>
-<td>
-
-### **Fun Insights**
-- Longest chatting streak
-- Busiest day ever
-- Night owl detection
-- Auto-generated chat facts
-
-</td>
-<td>
-
-### **Privacy First**
-- 100% local processing
-- No data sent anywhere
-- Works fully offline
-- Your chats stay yours
-
-</td>
-</tr>
-</table>
+| Feature | Description |
+|---------|-------------|
+| **Analytics at a Glance** | Total messages, words & media counts, per-participant breakdowns, average messages per day, chat duration & activity timeline |
+| **Activity Heatmap** | 7x24 day-hour activity grid, night owl / early bird detection, peak activity hour identification, visual color-coded intensity |
+| **Emoji Intelligence** | Top emoji rankings, per-participant emoji profiles, emoji usage over time, most expressive moments |
+| **Response Time Analysis** | Average reply speed per person, who responds fastest to whom, response time distributions, conversation flow insights |
+| **Fun Insights** | Longest chatting streak, busiest day ever, night owl detection, auto-generated chat facts |
+| **Privacy First** | 100% local processing, no data sent anywhere, works fully offline, your chats stay yours |
 
 ---
 
