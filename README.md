@@ -45,10 +45,4 @@ flutter run
 2. **Import** -- Open WhatStat and select the exported `.txt` file
 3. **Explore** -- View your analytics dashboard with charts, heatmaps, emoji stats, and fun insights
 
----
 
-<div align="center">
-
-**Made with Flutter**
-
-</div>
